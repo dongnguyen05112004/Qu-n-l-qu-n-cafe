@@ -1,0 +1,13 @@
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\bin\Debug\quan_ly_quan_ca_phe.exe.config
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\bin\Debug\quan_ly_quan_ca_phe.exe
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\bin\Debug\quan_ly_quan_ca_phe.pdb
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.csprojAssemblyReference.cache
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.Form1.resources
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.frm_QuanLyMatHang.resources
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.Properties.Resources.resources
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.TrangChu.resources
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.csproj.GenerateResource.cache
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.csproj.CoreCompileInputs.cache
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.exe
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.pdb
+D:\N4\DoAnNhom_QuanLyQuanCf\cafe\quan_ly_quan_ca_phe\obj\Debug\quan_ly_quan_ca_phe.frm_QuanLyNhanVien.resources

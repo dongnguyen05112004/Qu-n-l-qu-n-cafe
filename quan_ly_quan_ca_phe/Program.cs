@@ -16,7 +16,9 @@ namespace quan_ly_quan_ca_phe
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new frm_QuanLyMatHang());
+            Application.Run(new frm_QuanLyNhanVien());
         }
     }
 }
